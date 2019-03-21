@@ -1,4 +1,4 @@
-# BellyButton
+# Interactive Visualizations
 
 ## Objectives
 
